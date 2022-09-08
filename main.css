@@ -1,0 +1,78 @@
+
+.div-connexion{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+
+.form-connexion {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.h1{
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+.form-connexion input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.form-connexion input[type=submit] {
+    background-color: rgb(53, 142, 243);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: rgb(53, 142, 243);
+    border: 1px solid rgb(53, 142, 243);
+}
+
+.div-questions{
+    width:700px;
+    margin:0 auto;
+    margin-top:10%;
+}
+
+.form-questions{
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 10px 0 rgb(58, 125, 187), 0 5px 5px 0 rgb(58, 125, 187);
+}
+
+.form-questions input[type=submit]{
+    color: white;
+    background-color: rgb(53, 142, 243);;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    
+}
+
+.form-deconnexion input[type=submit]{
+    color: white;
+    background-color: rgb(53, 142, 243);;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    
+}
+
